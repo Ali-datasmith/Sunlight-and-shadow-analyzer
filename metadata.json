@@ -1,0 +1,6 @@
+{
+  "name": "Sunlight & Shadow Analyzer",
+  "description": "Interactive sun-path, shadow and sunlight-hours tool for small-site urban planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
